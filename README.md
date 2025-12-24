@@ -1,5 +1,7 @@
 # ps2dev-dreamgl
 
+http://saveski.substack.com/p/dreamgl
+
 DreamGL is an OpenGL-like graphics library written completely from scratch. The current release only supports Sony's Playstation2 console.
 
 The code is not based on any existing OpenGL code base. It was developed independently, with the aim of taking complete advantage of the target hardware platform.

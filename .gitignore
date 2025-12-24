@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+*~
+.secret
+.elf
+.map
+.o
+.so
+.a
+obj/
+tmp/
+linkfile
